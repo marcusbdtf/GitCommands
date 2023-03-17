@@ -13,5 +13,3 @@
     "git describe": "Tar emot en tagg från en commit och returnerar en läsbar variant för identifikation.",
     "git rm": "Tar bort filer."
 }
-    
-    
