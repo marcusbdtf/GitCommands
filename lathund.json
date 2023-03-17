@@ -10,6 +10,6 @@
     "git push": "Laddar upp lokalt repo till fjärrrepo",
     "git rebease": "Ändrar basen för grenen",
     "git status": "Visar arbetsområdet och staging-området",
-    "git switch": "Ändrar nuvarande HEAD-gren"
-    
+    "git switch": "Ändrar nuvarande HEAD-gren",
+    "git stash": "lagrar ändringar och låter dig återapplicera ändringar senare"   
 }
