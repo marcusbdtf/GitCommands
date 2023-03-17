@@ -5,7 +5,8 @@
     "git clone": "Klona ett repository till din dator.",
     "git rebase -i": "Ger en lista över commits som kommer bli rebased i.",
     "git reflog": "Visar en lista på gånger då HEAD har ändrats.",
-    "git remote": "Hantera remote branches."
+    "git remote": "Hantera remote branches.",
+    "git reset": "Ger möjligheten att gå tillbaka till en viss commit i din nuvarande branch. Commit historiken efter den committen tas även bort."
 }
     
     
