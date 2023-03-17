@@ -9,7 +9,8 @@
     "git reset": "Ger möjligheten att gå tillbaka till en viss commit i din nuvarande branch. Commit historiken efter den committen tas även bort.",
     "git revert": "Skapar en ny commit med en äldre commits data. Commit historiken behålls.",
     "git apply": "Applicerar en .patch fil.",
-    "git cherry-pick": "Ta ut en commit från en specifik branch och applicera den på en annan."
+    "git cherry-pick": "Ta ut en commit från en specifik branch och applicera den på en annan.",
+    "git describe": "Tar emot en tagg från en commit och returnerar en läsbar variant för identifikation."
 }
     
     
