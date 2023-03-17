@@ -11,5 +11,6 @@
     "git rebease": "Ändrar basen för grenen",
     "git status": "Visar arbetsområdet och staging-området",
     "git switch": "Ändrar nuvarande HEAD-gren",
-    "git stash": "lagrar ändringar och låter dig återapplicera ändringar senare"   
+    "git stash": "lagrar ändringar och låter dig återapplicera ändringar senare",
+    "git tag": "referenser till specifika punkter i git historia"   
 }
