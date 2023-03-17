@@ -1,7 +1,8 @@
 {
     "git add": "Lägger till ändrade filer i staging.",
     "git checkout": "Ger möjgligheten att byta mellan branches.",
-    "git clean": "Tar bort filer som inte är spårade i git."
+    "git clean": "Tar bort filer som inte är spårade i git.",
+    "git clone": "Klona ett repository till din dator."
 }
     
     
