@@ -4,5 +4,6 @@
     "git config": "Ställer in konfigurationsnivåer för globala / lokala projekt",
     "git fetch": "Laddar ner från fjärrrepo",
     "git init": "Initierar ett nytt repository",
-    "git log": "Visar reporistoriets historia"
+    "git log": "Visar reporistoriets historia",
+    "git merge": "Kombinerar olika versioner av en fil / mapp"
 }
