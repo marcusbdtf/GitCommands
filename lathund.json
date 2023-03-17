@@ -9,6 +9,7 @@
     "git pull": "Kombination av git fetch följt av git merge",
     "git push": "Laddar upp lokalt repo till fjärrrepo",
     "git rebease": "Ändrar basen för grenen",
-    "git status": "Visar arbetsområdet och staging-området"
+    "git status": "Visar arbetsområdet och staging-området",
+    "git switch": "Ändrar nuvarande HEAD-gren"
     
 }
