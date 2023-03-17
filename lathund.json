@@ -5,5 +5,6 @@
     "git fetch": "Laddar ner från fjärrrepo",
     "git init": "Initierar ett nytt repository",
     "git log": "Visar reporistoriets historia",
-    "git merge": "Kombinerar olika versioner av en fil / mapp"
+    "git merge": "Kombinerar olika versioner av en fil / mapp",
+    "git pull": "Kombination av git fetch följt av git merge"
 }
