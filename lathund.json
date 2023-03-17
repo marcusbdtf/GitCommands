@@ -7,5 +7,6 @@
     "git log": "Visar reporistoriets historia",
     "git merge": "Kombinerar olika versioner av en fil / mapp",
     "git pull": "Kombination av git fetch följt av git merge",
-    "git push": "Laddar upp lokalt repo till fjärrrepo"
+    "git push": "Laddar upp lokalt repo till fjärrrepo",
+    "git rebease": "Ändrar basen för grenen"
 }
