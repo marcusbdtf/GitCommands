@@ -1,17 +1,3 @@
 {
-    "git commit": "Tar en snapshot av projektet",
-    "git commit --amend": "Låter dig ändra tidigare commits och staged changes",
-    "git config": "Ställer in konfigurationsnivåer för globala / lokala projekt",
-    "git fetch": "Laddar ner från fjärrrepo",
-    "git init": "Initierar ett nytt repository",
-    "git log": "Visar reporistoriets historia",
-    "git merge": "Kombinerar olika versioner av en fil / mapp",
-    "git pull": "Kombination av git fetch följt av git merge",
-    "git push": "Laddar upp lokalt repo till fjärrrepo",
-    "git rebease": "Ändrar basen för grenen",
-    "git status": "Visar arbetsområdet och staging-området",
-    "git switch": "Ändrar nuvarande HEAD-gren",
-    "git stash": "lagrar ändringar och låter dig återapplicera ändringar senare",
-    "git tag": "referenser till specifika punkter i git historia",
-    "git diff": "tar två datasets och visar skillnaderna mellan dem"
+    "git commit": "Tar en snapshot av projektet"
 }
