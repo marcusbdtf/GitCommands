@@ -13,7 +13,7 @@
     "git switch": "Ändrar nuvarande HEAD-gren",
     "git stash": "lagrar ändringar och låter dig återapplicera ändringar senare",
     "git tag": "referenser till specifika punkter i git historia",
-    "git diff": "tar två datasets och visar skillnaderna mellan dem"   
+    "git diff": "tar två datasets och visar skillnaderna mellan dem",   
     "git add": "Lägger till ändrade filer i staging.",
     "git checkout": "Ger möjgligheten att byta mellan branches.",
     "git clean": "Tar bort filer som inte är spårade i git.",
