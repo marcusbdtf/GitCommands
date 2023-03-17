@@ -1,5 +1,6 @@
 {
-    "git add": "Lägger till ändrade filer i staging."
+    "git add": "Lägger till ändrade filer i staging.",
+    "git checkout": "Ger möjgligheten att byta mellan branches."
 }
     
     
