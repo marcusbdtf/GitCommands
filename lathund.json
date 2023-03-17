@@ -2,5 +2,6 @@
     "git commit": "Tar en snapshot av projektet",
     "git commit --amend": "Låter dig ändra tidigare commits och staged changes",
     "git config": "Ställer in konfigurationsnivåer för globala / lokala projekt",
-    "git fetch": "Laddar ner från fjärrrepo"
+    "git fetch": "Laddar ner från fjärrrepo",
+    "git init": "Initierar ett nytt repository"
 }
