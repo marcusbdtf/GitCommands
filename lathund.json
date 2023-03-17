@@ -1,3 +1,4 @@
 {
-    "git commit": "Tar en snapshot av projektet"
+    "git commit": "Tar en snapshot av projektet",
+    "git commit --amend": "Låter dig ändra tidigare commits och staged changes"
 }
