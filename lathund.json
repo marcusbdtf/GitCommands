@@ -12,5 +12,6 @@
     "git status": "Visar arbetsområdet och staging-området",
     "git switch": "Ändrar nuvarande HEAD-gren",
     "git stash": "lagrar ändringar och låter dig återapplicera ändringar senare",
-    "git tag": "referenser till specifika punkter i git historia"   
+    "git tag": "referenser till specifika punkter i git historia",
+    "git diff": "tar två datasets och visar skillnaderna mellan dem"   
 }
